@@ -1,0 +1,13 @@
+/* ヘッダー */
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* 各セクション */
+  section {
+    margin: 20px;
+    padding: 20px;
+  }
+  
